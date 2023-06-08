@@ -1,0 +1,31 @@
+body{
+    background-image: url(../img/pinguinos.jpg);
+    background-repeat: no-repeat;
+    background-position: 150px top;
+}
+
+table{
+    padding: 0px;
+    margin: 400px;
+    border-spacing: 0px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: large;    
+    width: 1000px;
+    height: 100px;
+    box-shadow: 2px 2px 0px 2px black;
+    
+}
+
+th, td{
+    border: 5px rgb(240, 240, 178); 
+    border-style: ridge;
+}
+
+th{
+    background-color: aliceblue;
+}
+
+td{
+    background-color: rgb(240, 240, 178);
+    text-align: center;   
+}
