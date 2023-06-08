@@ -1,0 +1,31 @@
+table{
+    padding: 0px;
+    margin: 0px;
+    border-spacing: 0px;
+    font-family:  sans-serif;  
+    font-size: medium; 
+    width: 800px;
+    height: 200px;
+    border: 3px outset rgb(252, 252, 197);
+    box-shadow: 2px 2px 0px 0.1px black;
+}
+
+td{
+    border: 1px rgb(252, 252, 197);
+    border-style: solid;
+    color: rgb(133, 5, 5);
+    box-shadow: inset 2px 2px 5px 0.5px black;
+    text-align: center;
+}
+
+.cabecera{
+    background-color: rgb(78, 139, 78);   
+}
+
+.titulo{
+    background-color: rgb(248, 211, 169);
+}
+
+.tipo{
+    background-color: rgb(252, 252, 125);
+}
