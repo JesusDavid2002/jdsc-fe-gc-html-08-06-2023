@@ -1,0 +1,78 @@
+body{
+    background-image: url(../img/ac.jpg);
+}
+
+p{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    padding: 1.5em;
+    border: 2px solid black;
+    background-color: aliceblue;
+}
+
+.mantel1{
+    background-image: url(../img/back_mantel.jpg);
+}
+
+.mantel2{
+    background-image: url(../img/back_mantel.jpg);
+    background-clip: content-box;
+}
+
+.mantel3{
+    background-image: url(../img/back_mantel.jpg);
+    background-size: 100% 100%;
+}
+
+.mantel4{
+    background-image: url(../img/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-origin: content-box;
+}
+
+.foto1{
+    background-image: url(../img/dh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.foto2{
+    background-image: url(../img/dh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: content-box;
+}
+
+.foto3{
+    background-image: url(../img/dh_2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.foto4{
+    background-image: url(../img/dh_3.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.color1{
+    background: linear-gradient(to right, rgb(232, 240, 122) 0%, rgb(128, 115, 3) 100%);
+}
+
+.color2{
+    background: linear-gradient(to bottom, rgb(241, 187, 162) 0%, rgb(122, 61, 32) 80%, rgb(78, 30, 8) 55%, rgb(172, 98, 65) 100%);
+}
+
+.color3{
+    background: linear-gradient(to bottom, rgb(239, 248, 239) 0%, rgb(0, 85, 0) 100%);
+}
+
+.color4{
+    background: linear-gradient(to bottom, transparent 0%, rgb(0, 85, 0) 100%);
+}
