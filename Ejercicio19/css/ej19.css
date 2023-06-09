@@ -1,0 +1,16 @@
+table{
+    padding: 0px;
+    margin: 20px;
+    border: 1px black;
+    border-style: double;
+}
+
+th, td{
+    border: 1px black;
+    border-style: double;
+}
+
+.pais{
+    text-align: left;
+    width: 100px;
+}
