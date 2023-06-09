@@ -4,6 +4,8 @@ Ejercicio 11
 
 https://jesusdavid2002.github.io/jdsc-fe-gc-html-08-06-2023/Ejercicio11/deportes/donde
 
+![image](https://github.com/JesusDavid2002/jdsc-fe-gc-html-08-06-2023/assets/82532848/86501a91-d281-4a28-b53b-3ab8c24503ac)
+
 https://jesusdavid2002.github.io/jdsc-fe-gc-html-08-06-2023/Ejercicio11/deportes/donde2
 
 Ejercicio 12
