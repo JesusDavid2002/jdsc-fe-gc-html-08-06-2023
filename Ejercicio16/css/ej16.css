@@ -29,3 +29,7 @@ td{
 .tipo{
     background-color: rgb(252, 252, 125);
 }
+
+.datos{
+    background-image: url(../img/huellas.jpg);
+}
