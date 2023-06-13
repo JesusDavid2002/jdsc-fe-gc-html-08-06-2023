@@ -1,3 +1,8 @@
+#container{
+    width: 850px;
+    padding: 2vw;
+}
+
 table{
     padding: 0px;
     margin: 20px;
@@ -11,6 +16,6 @@ th, td{
 }
 
 .pais{
-    text-align: left;
     width: 100px;
+    text-align: left;
 }

@@ -4,21 +4,20 @@ body{
     background-position: 150px top;
 }
 
-table{
+table{  
+    width: 1000px;
+    height: 100px;
     padding: 0px;
     margin: 400px;
     border-spacing: 0px;
     font-family: Arial, Helvetica, sans-serif; 
-    font-size: large;    
-    width: 1000px;
-    height: 100px;
+    font-size: large;  
     box-shadow: 2px 2px 0px 2px black;
-    
 }
 
 th, td{
-    border: 5px rgb(240, 240, 178); 
-    border-style: ridge;
+    border: 3px ridge rgb(240, 240, 178); 
+    box-shadow: inset 1px 1px 2px  black;
 }
 
 th{
@@ -28,4 +27,5 @@ th{
 td{
     background-color: rgb(240, 240, 178);
     text-align: center;   
+    border-radius: 5px;
 }
