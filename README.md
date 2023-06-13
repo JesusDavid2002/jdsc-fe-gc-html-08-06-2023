@@ -56,7 +56,7 @@ Ejercicio 19
 
 https://jesusdavid2002.github.io/jdsc-fe-gc-html-08-06-2023/Ejercicio19/
 
-![image](https://github.com/JesusDavid2002/jdsc-fe-gc-html-08-06-2023/assets/82532848/f93f6682-fbf5-4654-bf5e-35adef872d9d)
+![image](https://github.com/JesusDavid2002/jdsc-fe-gc-html-08-06-2023/assets/82532848/9e7f4a26-7088-4e0c-a00c-229ca99c88ed)
 
 Ejercicio 20
 
