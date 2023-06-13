@@ -43,3 +43,21 @@ Ejercicio 17
 https://jesusdavid2002.github.io/jdsc-fe-gc-html-08-06-2023/Ejercicio17/
 
 ![image](https://github.com/JesusDavid2002/jdsc-fe-gc-html-08-06-2023/assets/82532848/649f0998-2859-41e9-a096-ff401c559226)
+
+Ejercicio 18
+
+https://jesusdavid2002.github.io/jdsc-fe-gc-html-08-06-2023/Ejercicio18/
+
+![image](https://github.com/JesusDavid2002/jdsc-fe-gc-html-08-06-2023/assets/82532848/fd37623f-7c70-4bcc-bc52-a44f5e6784d1)
+
+Ejercicio 19
+
+https://jesusdavid2002.github.io/jdsc-fe-gc-html-08-06-2023/Ejercicio19/
+
+![image](https://github.com/JesusDavid2002/jdsc-fe-gc-html-08-06-2023/assets/82532848/f93f6682-fbf5-4654-bf5e-35adef872d9d)
+
+Ejercicio 20
+
+https://jesusdavid2002.github.io/jdsc-fe-gc-html-08-06-2023/Ejercicio20/
+
+![image](https://github.com/JesusDavid2002/jdsc-fe-gc-html-08-06-2023/assets/82532848/d4ccefcd-a2ee-4655-8fa4-b04e032e7a21)
